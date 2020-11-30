@@ -1,7 +1,7 @@
 
 .hero-container {
     background: url('/src/images/background.png') center center/cover no-repeat;
-    height: 80vh;
+    height: 45vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -12,45 +12,19 @@
 .myName {
     color:black;
     font-size: 100px;
-    margin-top: 50px;
 }
 
 .valueProp {
     color: black;
     margin-top: 25px;
-    margin-bottom: 50px;
+    margin-right: 50px;
     font-size: 35px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .hero-btns {
-    margin-top: 32px;
-    margin-left: 60px;
+    margin-left: 50px;
     padding: 50px;
-}
-
-.description-container {
-  background-color: white; 
-  height: 60vh;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  object-fit: contain;
-}
-
-.description {
-color:black;
-  margin-bottom: 50px;
-  margin-right: 150px;
-  font-size: 25px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.description-btns {
-  margin-top: 32px;
-  margin-left: 60px;
-  padding: 50px;
 }
 
 @media screen and (max-width: 960px) {
