@@ -3,9 +3,9 @@
     background: #fff;
   }
   
-  /* h1 {
+  .title {
     text-align: center;
-  } */
+  }
   
   .cards__container {
     display: flex;
