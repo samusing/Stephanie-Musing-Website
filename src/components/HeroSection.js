@@ -8,7 +8,7 @@ function HeroSection() {
         <div className='hero-container'>
             <div className='hero-btns'>
                 <h1 className="myName">Stephanie Musing</h1>
-                <p className="valueProp"><b>A Management Engineer passionate about building impactful products with a focus on accessibility!</b></p>
+                <p className="valueProp"><b>A Management Engineer passionate about building inclusive and impactful products!</b></p>
             </div>
             {/* <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>Get Started</Button> */}
 
