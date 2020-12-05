@@ -11,7 +11,6 @@ function HeroSection() {
                 <p className="valueProp"><b>A Management Engineer passionate about building impactful products with a focus on accessibility!</b></p>
             </div>
             {/* <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>Get Started</Button> */}
-
         </div>
     )
 }
