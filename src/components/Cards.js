@@ -1,6 +1,11 @@
 import React from 'react';
 import CardItem from './CardItem';
 import './Cards.css';
+import image1 from './FYDP.png';
+import image2 from './procreate.png';
+
+console.log(image1);
+console.log(image2);
 
 function Cards() {
     return (
@@ -9,17 +14,23 @@ function Cards() {
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
-                        <CardItem 
-                        src='./images/LD-logo.png'
+                        {/* <CardItem 
+                        src={image1}
                         text="Explore the projects I've worked on"
-                        label="Loblaw Digital"
+                        label="PM at Loblaw Digital"
+                        path='/projects'
+                        /> */}
+                        <CardItem 
+                        src={image1}
+                        text="Redesigning the flyer in a digital age"
+                        label="Fourth Year Design Project"
                         path='/projects'
                         />
                         <CardItem 
-                        src='./images/flipp_logo.png'
-                        text="Work at Flipp"
-                        label="Flipp"
-                        path='/projects'
+                        src={image2}
+                        text="How I like to get my creative juices flowing"
+                        label="Doodles"
+                        path='/doodles'
                         />
                     </ul>
                 </div>
