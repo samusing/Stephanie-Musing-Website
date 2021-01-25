@@ -1,5 +1,5 @@
 .description-container {
-    background-color: #4D87BD;
+    background-color: white;
     height: 40%;
     width: 100%;
     display: flex;
@@ -14,7 +14,7 @@
   color:black;
     /* margin-bottom: 50px;
     margin-right: 150px; */
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   
@@ -40,6 +40,18 @@
     border-radius: 10px;
   }
 
+  .heading {
+    color: black;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .second-heading {
+    color: black;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
   @media only screen and (min-width: 1200px) {
     .content__blog__container {
       width: 84%;
@@ -47,12 +59,12 @@
   }
   
   @media only screen and (min-width: 1024px) {
-    .description__items {
+    .description-items {
       display: flex;
     }
   }
 
   .logo {
-    width: 300px;
-    height: 350px;
+    max-width: 100%;
+    max-height: 100%;
   }

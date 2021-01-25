@@ -1,11 +1,20 @@
+:root {
+  --btn-outline: black;
+  --btn-text:black;
+  --btn-background: white;
+  --hover-bar: #F804AC;
+  --nav-text: black;
+  --nav-background: white;
+}
+
 .navbar {
     /* background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%); */
-    background-color: #242424;
+    background-color: var(--nav-background);
     height: 80px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.2rem;
+    /* justify-content: center; */
+    /* align-items: center; */
+    font-size: 1.4rem;
     position: sticky;
     top: 0;
     z-index: 999;
@@ -21,7 +30,7 @@
   }
   
   .navbar-logo {
-    color:white;
+    color:var(--nav-text);
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
@@ -52,7 +61,7 @@
   }
   
   .nav-links {
-    color: white;
+    color: var(--nav-text);
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -61,12 +70,13 @@
   }
   
   .nav-links:hover {
-    border-bottom: 4px solid white;
+    border-bottom: 6px solid var(--hover-bar);
     transition: all 0.2s ease-out;
   }
   
+  /* Hamburger menu icon */
   .fa-bars {
-    color: white;
+    color: var(--nav-text);
   }
   
   .nav-links-mobile {
@@ -95,7 +105,7 @@
     }
   
     .nav-menu.active {
-      background: white;
+      background: var(--nav-background);
       left: 0;
       opacity: 1;
       transition: all 0.5s ease;
@@ -110,7 +120,7 @@
     }
   
     .nav-links:hover {
-      background-color:white;
+      background-color:var(--nav-background);
       color: black;
       border-radius: 0;
     }
@@ -132,8 +142,9 @@
       cursor: pointer;
     }
   
+    /* X button */
     .fa-times {
-      color: white;
+      color: var(--nav-text);
       font-size: 2rem;
     }
   
@@ -146,15 +157,15 @@
       text-decoration: none;
       font-size: 1.5rem;
       background-color: transparent;
-      color: white;
+      color: var(--btn-background);
       padding: 14px 20px;
-      border: 1px solid white;
+      border: 1px solid var(--nav-text);
       transition: all 0.3s ease-out;
     }
   
     .nav-links-mobile:hover {
-      background: white;
-      color: black;
+      background:black;
+      color: white;
       transition: 250ms;
     }
   }
