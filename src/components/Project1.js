@@ -3,7 +3,6 @@ import { Button } from './Button';
 import './Project1.css';
 import '../App.css';
 import logo from './Flyer image-blurred.png';
-//NEW  CHANGES
 
 function Project1(){
     return (
