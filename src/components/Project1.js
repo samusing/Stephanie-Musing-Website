@@ -2,7 +2,7 @@ import React from 'react'
 import { Button } from './Button';
 import './Project1.css';
 import '../App.css';
-// import logo from './headshot-new.png';
+import logo from './Flyer image-blurred.png';
 
 function Project1(){
     return (
@@ -10,8 +10,8 @@ function Project1(){
             <div className='project1-wrapper'>
                 <ul className="project1-items">
                     <div className="project1-image">
-                        <h1 className="projectTitle">Insert project 1 image here</h1>
-                        {/* <img className="headshot" src={logo} alt="My headshot"/> */}
+                        {/* <h1 className="projectTitle">Coming soon...</h1> */}
+                        <img className="flyerimage" src={logo} alt="New flyer design, blurred out. Under construction"/>
                     </div>
                     <div className="projectTitle">
                         <h1>Redesigning the Flyer in a Digital Age</h1>
