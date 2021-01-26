@@ -30,7 +30,7 @@ function Cards() {
                         src={image2}
                         text="How I like to get my creative juices flowing"
                         label="Doodles"
-                        path='/doodles'
+                        path='/doodle'
                         />
                     </ul>
                 </div>
