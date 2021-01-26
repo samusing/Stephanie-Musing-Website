@@ -52,6 +52,11 @@ function Navbar() {
                             Projects
                         </Link>
                     </li>
+                    <li className='nav-item'>
+                        <Link to='/doodle' className='nav-links' onClick={closeMobileMenu}>
+                            Doodles
+                        </Link>
+                    </li>
                     {/* <li className='nav-item'>
                         <Link to='/contact' className='nav-links' onClick={closeMobileMenu}>
                             Let's Chat!

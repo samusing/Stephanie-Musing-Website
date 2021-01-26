@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import Doodles from '../Doodles';
 
-function Doodles () {
+function Doodle () {
     return(
         <>
             <Doodles />
@@ -10,4 +10,4 @@ function Doodles () {
     )
 }
 
-export default Doodles;
+export default Doodle;

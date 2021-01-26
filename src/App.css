@@ -7,7 +7,7 @@
 
 .home,
 .projects,
-.contact {
+.doodle {
   display: flex;
   height: 90vh;
   align-items: center;
