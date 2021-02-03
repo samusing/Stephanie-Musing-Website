@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Stephanie-Musing-Website/static/css/main.3dff116a.chunk.css",
+    "main.js": "/Stephanie-Musing-Website/static/js/main.05b77ceb.chunk.js",
+    "main.js.map": "/Stephanie-Musing-Website/static/js/main.05b77ceb.chunk.js.map",
+    "runtime-main.js": "/Stephanie-Musing-Website/static/js/runtime-main.11dde170.js",
+    "runtime-main.js.map": "/Stephanie-Musing-Website/static/js/runtime-main.11dde170.js.map",
+    "static/js/2.35327be1.chunk.js": "/Stephanie-Musing-Website/static/js/2.35327be1.chunk.js",
+    "static/js/2.35327be1.chunk.js.map": "/Stephanie-Musing-Website/static/js/2.35327be1.chunk.js.map",
+    "static/js/3.7e966ec3.chunk.js": "/Stephanie-Musing-Website/static/js/3.7e966ec3.chunk.js",
+    "static/js/3.7e966ec3.chunk.js.map": "/Stephanie-Musing-Website/static/js/3.7e966ec3.chunk.js.map",
+    "index.html": "/Stephanie-Musing-Website/index.html",
+    "static/css/main.3dff116a.chunk.css.map": "/Stephanie-Musing-Website/static/css/main.3dff116a.chunk.css.map",
+    "static/js/2.35327be1.chunk.js.LICENSE.txt": "/Stephanie-Musing-Website/static/js/2.35327be1.chunk.js.LICENSE.txt",
+    "static/media/FYDP.d9363318.png": "/Stephanie-Musing-Website/static/media/FYDP.d9363318.png",
+    "static/media/Flyer image-blurred.1b4dd32b.png": "/Stephanie-Musing-Website/static/media/Flyer image-blurred.1b4dd32b.png",
+    "static/media/App.css": "/Stephanie-Musing-Website/static/media/background.90a77150.png",
+    "static/media/be-best-you.14d6babd.jpg": "/Stephanie-Musing-Website/static/media/be-best-you.14d6babd.jpg",
+    "static/media/cactus.ab58e3a4.jpg": "/Stephanie-Musing-Website/static/media/cactus.ab58e3a4.jpg",
+    "static/media/dream.7392f1dd.jpg": "/Stephanie-Musing-Website/static/media/dream.7392f1dd.jpg",
+    "static/media/get-back-up.c75044ac.jpg": "/Stephanie-Musing-Website/static/media/get-back-up.c75044ac.jpg",
+    "static/media/gingerbread.f636975b.jpg": "/Stephanie-Musing-Website/static/media/gingerbread.f636975b.jpg",
+    "static/media/hand-wave.1a8bdeba.png": "/Stephanie-Musing-Website/static/media/hand-wave.1a8bdeba.png",
+    "static/media/happy-days.f04316b3.jpg": "/Stephanie-Musing-Website/static/media/happy-days.f04316b3.jpg",
+    "static/media/headshot-new.afe478f3.png": "/Stephanie-Musing-Website/static/media/headshot-new.afe478f3.png",
+    "static/media/love.35456b97.jpg": "/Stephanie-Musing-Website/static/media/love.35456b97.jpg",
+    "static/media/noodle.bda1b7e0.jpg": "/Stephanie-Musing-Website/static/media/noodle.bda1b7e0.jpg",
+    "static/media/procreate.211094f8.png": "/Stephanie-Musing-Website/static/media/procreate.211094f8.png",
+    "static/media/space.aea88137.jpg": "/Stephanie-Musing-Website/static/media/space.aea88137.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11dde170.js",
+    "static/js/2.35327be1.chunk.js",
+    "static/css/main.3dff116a.chunk.css",
+    "static/js/main.05b77ceb.chunk.js"
+  ]
+}
