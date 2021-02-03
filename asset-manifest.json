@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fd76f1e.chunk.css",
+    "main.js": "/static/js/main.05b77ceb.chunk.js",
+    "main.js.map": "/static/js/main.05b77ceb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ba6c834.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ba6c834.js.map",
+    "static/js/2.35327be1.chunk.js": "/static/js/2.35327be1.chunk.js",
+    "static/js/2.35327be1.chunk.js.map": "/static/js/2.35327be1.chunk.js.map",
+    "static/js/3.7e966ec3.chunk.js": "/static/js/3.7e966ec3.chunk.js",
+    "static/js/3.7e966ec3.chunk.js.map": "/static/js/3.7e966ec3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5fd76f1e.chunk.css.map": "/static/css/main.5fd76f1e.chunk.css.map",
+    "static/js/2.35327be1.chunk.js.LICENSE.txt": "/static/js/2.35327be1.chunk.js.LICENSE.txt",
+    "static/media/FYDP.d9363318.png": "/static/media/FYDP.d9363318.png",
+    "static/media/Flyer image-blurred.1b4dd32b.png": "/static/media/Flyer image-blurred.1b4dd32b.png",
+    "static/media/App.css": "/static/media/background.90a77150.png",
+    "static/media/be-best-you.14d6babd.jpg": "/static/media/be-best-you.14d6babd.jpg",
+    "static/media/cactus.ab58e3a4.jpg": "/static/media/cactus.ab58e3a4.jpg",
+    "static/media/dream.7392f1dd.jpg": "/static/media/dream.7392f1dd.jpg",
+    "static/media/get-back-up.c75044ac.jpg": "/static/media/get-back-up.c75044ac.jpg",
+    "static/media/gingerbread.f636975b.jpg": "/static/media/gingerbread.f636975b.jpg",
+    "static/media/hand-wave.1a8bdeba.png": "/static/media/hand-wave.1a8bdeba.png",
+    "static/media/happy-days.f04316b3.jpg": "/static/media/happy-days.f04316b3.jpg",
+    "static/media/headshot-new.afe478f3.png": "/static/media/headshot-new.afe478f3.png",
+    "static/media/love.35456b97.jpg": "/static/media/love.35456b97.jpg",
+    "static/media/noodle.bda1b7e0.jpg": "/static/media/noodle.bda1b7e0.jpg",
+    "static/media/procreate.211094f8.png": "/static/media/procreate.211094f8.png",
+    "static/media/space.aea88137.jpg": "/static/media/space.aea88137.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ba6c834.js",
+    "static/js/2.35327be1.chunk.js",
+    "static/css/main.5fd76f1e.chunk.css",
+    "static/js/main.05b77ceb.chunk.js"
+  ]
+}
